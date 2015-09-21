@@ -6,7 +6,7 @@ parcel: added ProjectAttachment table linked to project, one project can have mu
 
 parcel :added Comment column to project table
 
-parcel: added ClientCompanyID to project table
+
 
 
 09/18/2015
