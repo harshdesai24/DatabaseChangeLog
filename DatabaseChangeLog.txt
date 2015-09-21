@@ -1,0 +1,9 @@
+database change log
+
+
+09/20/2015
+parcel: added ProjectAttachment table linked to project, one project can have multiple                 ProjectAttachment
+
+parcel :added Comment column to project table
+
+
